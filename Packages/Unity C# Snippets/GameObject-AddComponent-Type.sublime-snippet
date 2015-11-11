@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+AddComponent<${1:Type type}>()
+]]></content>
+	<tabTrigger>AddComponent</tabTrigger>
+	<scope>source.cs</scope>
+	<description>componentType</description>
+</snippet>

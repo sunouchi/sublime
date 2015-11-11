@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+FindWithTag(${1:string tag})
+]]></content>
+	<tabTrigger>FindWithTag</tabTrigger>
+	<scope>source.cs</scope>
+	<description>tag</description>
+</snippet>

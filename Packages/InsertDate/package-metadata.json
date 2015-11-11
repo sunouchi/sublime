@@ -1,0 +1,1 @@
+{"description": "Insert the current date/time according to given formatting or timezone", "url": "https://github.com/FichteFoll/InsertDate", "platforms": ["*"], "version": "2.0.2", "sublime_text": "*", "dependencies": []}

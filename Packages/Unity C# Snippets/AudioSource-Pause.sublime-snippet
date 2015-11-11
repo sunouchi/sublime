@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Pause()
+]]></content>
+	<tabTrigger>Pause</tabTrigger>
+	<scope>source.cs</scope>
+	<description>AudioSource</description>
+</snippet>

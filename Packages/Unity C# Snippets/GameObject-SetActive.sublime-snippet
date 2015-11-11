@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SetActive(${1:bool value})
+]]></content>
+	<tabTrigger>SetActive</tabTrigger>
+	<scope>source.cs</scope>
+	<description>value</description>
+</snippet>

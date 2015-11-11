@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Approximately(${1:float a}, ${2:float b})
+]]></content>
+	<tabTrigger>Approximately</tabTrigger>
+	<scope>source.cs</scope>
+	<description>a, b</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+FindGameObjectsWithTag(${1:string tag})
+]]></content>
+	<tabTrigger>FindGameObjectsWithTag</tabTrigger>
+	<scope>source.cs</scope>
+	<description>tag</description>
+</snippet>

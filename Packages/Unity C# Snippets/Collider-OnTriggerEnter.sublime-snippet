@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+OnTriggerEnter(Collider ${1:other}){
+	${2:}
+}
+]]></content>
+	<tabTrigger>OnTriggerEnter</tabTrigger>
+	<scope>source.cs</scope>
+	<description>other</description>
+</snippet>

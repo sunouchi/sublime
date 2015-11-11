@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+OnBecameVisible(){
+	${1:}
+}
+]]></content>
+	<tabTrigger>OnBecameVisible</tabTrigger>
+	<scope>source.cs</scope>
+	<description>void</description>
+</snippet>

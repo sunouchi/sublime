@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+MoveTowards(${1:float current}, ${2:float target}, ${3:float maxDelta})
+]]></content>
+	<tabTrigger>MoveTowards</tabTrigger>
+	<scope>source.cs</scope>
+	<description>current, target, maxDelta</description>
+</snippet>

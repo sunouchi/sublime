@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ResetReplacementShader()
+]]></content>
+	<tabTrigger>ResetReplacementShader</tabTrigger>
+	<scope>source.cs</scope>
+	<description>void</description>
+</snippet>

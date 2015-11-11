@@ -1,0 +1,1 @@
+{"description": "Build and run single C# files from Sublime Text 2.", "url": "https://github.com/chrokh/csharp-build-singlefile-sublime-text-2", "platforms": ["*"], "version": "2015.10.17.10.49.02", "sublime_text": "*", "dependencies": []}

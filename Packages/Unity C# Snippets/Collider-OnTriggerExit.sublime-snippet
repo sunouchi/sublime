@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+OnTriggerExit(Collider ${1:other}){
+	${2:}
+}
+]]></content>
+	<tabTrigger>OnTriggerExit</tabTrigger>
+	<scope>source.cs</scope>
+	<description>other</description>
+</snippet>

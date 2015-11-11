@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Find(${1:string name})
+]]></content>
+	<tabTrigger>Find</tabTrigger>
+	<scope>source.cs</scope>
+	<description>name</description>
+</snippet>

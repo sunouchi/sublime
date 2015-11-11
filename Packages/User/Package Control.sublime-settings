@@ -1,0 +1,49 @@
+{
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"Backbone.js",
+		"C# Compile & Run",
+		"CoffeeScript",
+		"Compass",
+		"ConvertToUTF8",
+		"Emmet",
+		"EncodingHelper",
+		"Gist",
+		"HTML5",
+		"HTMLAttributes",
+		"InputSequence",
+		"InsertDate",
+		"Jade",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"LESS",
+		"LESS-build",
+		"LiveStyle",
+		"Markdown Extended",
+		"Monokai Extended",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"Processing",
+		"Ruby Slim",
+		"Sass",
+		"SASS Build",
+		"SCSS",
+		"SCSS Snippets",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeERB",
+		"SublimeLinter",
+		"Theme - Soda",
+		"Unity C# Snippets"
+	],
+	"repositories":
+	[
+		"https://github.com/kope88/InputSequence.git"
+	]
+}

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Max(${1:float a}, ${2:float b})
+]]></content>
+	<tabTrigger>Max</tabTrigger>
+	<scope>source.cs</scope>
+	<description>a, b</description>
+</snippet>

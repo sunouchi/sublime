@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+PingPong(${1:float t}, ${2:float length})
+]]></content>
+	<tabTrigger>PingPong</tabTrigger>
+	<scope>source.cs</scope>
+	<description>t, length</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Min(${1:float a}, ${2:float b})
+]]></content>
+	<tabTrigger>Min</tabTrigger>
+	<scope>source.cs</scope>
+	<description>a, b</description>
+</snippet>

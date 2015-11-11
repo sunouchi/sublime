@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+InverseLerp(${1:float from}, ${2:float to}, ${3:float value})
+]]></content>
+	<tabTrigger>InverseLerp</tabTrigger>
+	<scope>source.cs</scope>
+	<description>from, to, value</description>
+</snippet>

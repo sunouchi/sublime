@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Scale(${1:Vector3 scale})
+]]></content>
+	<tabTrigger>Scale</tabTrigger>
+	<scope>source.cs</scope>
+	<description>scale</description>
+</snippet>

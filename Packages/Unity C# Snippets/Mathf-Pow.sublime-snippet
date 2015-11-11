@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Pow(${1:float f}, ${2:float power})
+]]></content>
+	<tabTrigger>Pow</tabTrigger>
+	<scope>source.cs</scope>
+	<description>f, power</description>
+</snippet>

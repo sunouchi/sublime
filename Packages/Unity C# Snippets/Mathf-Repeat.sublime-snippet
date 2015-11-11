@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Repeat(${1:float t}, ${2:float length})
+]]></content>
+	<tabTrigger>Repeat</tabTrigger>
+	<scope>source.cs</scope>
+	<description>t, length</description>
+</snippet>
