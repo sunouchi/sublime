@@ -1,8 +1,9 @@
-.git
-.hg
-.svn
-
-*.pyc
-*.pyo
-
 .DS_Store
+.cache
+.coverage
+coverage.xml
+*.pyc
+*.sublime-project
+/Context.sublime-menu
+/Main.sublime-menu
+_build/

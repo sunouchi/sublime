@@ -3,6 +3,10 @@
 	"font_size": 12.0,
 	"ignored_packages":
 	[
+		"BracketHighlighter",
+		"Browser Refresh",
+		"Coffee Color Scheme",
+		"CSS3",
 		"Vintage"
 	],
 	"open_files_in_new_window": false,
